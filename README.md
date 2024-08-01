@@ -12,7 +12,7 @@ Welcome to Yummy, your ultimate destination for exploring a wide variety of deli
 ## Getting Started
 This project is a starting point for Front-End Applications.
 
-To get started with Culinary Delight:
+To get started with Yummy:
 
 1. Clone the repository:
    ```bash
